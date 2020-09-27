@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, I'm @Frank-Tao 👋
+
+[![Frank's github stats](https://github-readme-stats.vercel.app/api?username=Frank-Tao)]
 
 <!--
 **Frank-Tao/Frank-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
