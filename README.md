@@ -1,6 +1,8 @@
 ### Hello there, I'm Frank-Tao 👋
 
-![Frank's github stats](https://github-readme-stats-lemon-ten-24.vercel.app/api?username=Frank-Tao)
+![Frank's github stats](https://github-readme-stats-lemon-ten-24.vercel.app/api?username=Frank-Tao&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <!--
 **Frank-Tao/Frank-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
